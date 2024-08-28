@@ -68,13 +68,6 @@ Berikut langkah-langkah untuk menginstal dan menjalankan proyek:
     php artisan serve
     ```
 
-## Support
-
-Jika Anda ingin mendukung pengembangan proyek ini, Anda dapat memberikan donasi melalui [saweria](https://saweria.co/pais). Setiap kontribusi sangat dihargai dan akan digunakan untuk memperbaiki dan memperluas fitur-fitur proyek ini.
-
-Selain itu, saya juga menyediakan layanan instalasi proyek ini untuk membantu Anda menerapkannya dalam lingkungan produksi Anda. Layanan instalasi mencakup konfigurasi, penyesuaian, dan implementasi proyek sesuai dengan kebutuhan Anda.
-
-
 ## Peringatan
 
 Proyek ini dilindungi oleh hak cipta dan lisensi [MIT](https://github.com/Paiiss/spmb-laravel/blob/main/LICENSE). Dilarang keras untuk menjual ulang atau mendistribusikan kembali kode sumber ini tanpa izin tertulis dari pemilik proyek.
